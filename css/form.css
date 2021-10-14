@@ -1,0 +1,64 @@
+body{
+    font-family: 'NEXON Lv1 Gothic OTF';
+}
+
+h3 {
+    font-family: 'GmarketSansBold';
+    text-align: center;
+}
+
+h4 {
+    margin-top: 40px;
+    margin-bottom: 100px;
+    padding: 40px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+section {
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.q_title {
+    padding:0;
+}
+
+.q_wrapper{
+    background-image: url('../image/castle.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+button{
+    text-align: left;
+    width: 85%;
+    border: none;
+    background: rgba(255, 255, 255, 0.747);
+    font-size: 20px;
+    padding: 40px 25px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'BMJUA';
+    color: gray;
+}
+
+.q_mail{
+    border-top: 1px solid white;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.btn{
+    margin-bottom: 100px;
+}
