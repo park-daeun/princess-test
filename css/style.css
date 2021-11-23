@@ -41,14 +41,6 @@ body {
     font-family: 'NEXON Lv1 Gothic OTF';
 }
 
-/* section {
-    width:100%;
-    width:100%;
-    display: flex;
-    justify-content: center;
-    margin-top:100px;
-} */
-
 .main_wrapper {
     background-image: url(../image/castle2.jpg);
     background-size: cover;
